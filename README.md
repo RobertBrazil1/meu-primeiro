@@ -6,3 +6,6 @@ git add
 git status
 git commit -m ""
 git push main origin (ou git push)
+
+para criar uma brunch
+git checkout -b
